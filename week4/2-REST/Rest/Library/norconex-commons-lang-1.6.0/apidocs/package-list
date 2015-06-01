@@ -1,0 +1,10 @@
+com.norconex.commons.lang
+com.norconex.commons.lang.config
+com.norconex.commons.lang.file
+com.norconex.commons.lang.io
+com.norconex.commons.lang.map
+com.norconex.commons.lang.pipeline
+com.norconex.commons.lang.time
+com.norconex.commons.lang.unit
+com.norconex.commons.lang.url
+com.norconex.commons.lang.xml
